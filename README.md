@@ -22,6 +22,6 @@ Food Corner is the web based project. Developed using
 * CSS, HTML and Java Script for frontend.
 * We used xampp server to run this project in ubuntu operating system.
 
-# Team
-Developer team consists of two members. 1) Adithya Yelloju and 2) Mulka Rohith
-Duration : 2 weeks
+## Team
+* Developer team consists of two members. 1) Adithya Yelloju and 2) Mulka Rohith
+* Duration : 2 weeks
