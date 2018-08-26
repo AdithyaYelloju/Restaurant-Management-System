@@ -1,6 +1,7 @@
 # Restaurant-Management-System
 The Restaurant Management System is developed to keep records of the Restaurant like the food items, orders with online food ordering facility and provides managing facility for the restaurant. It is the web based project developed using PHP for backend, MySQL for database, CSS, HTML and Java Script for frontend. We named this project as Food Corner with tag line chase the flavors. We used xampp server to run this project in ubuntu operating system.
-This project has two panels. They are User_panel and Admin_panel has folder names as user and admin respectively.
+
+Food Corner project has two panels. They are User_panel and Admin_panel has folder names as user and admin respectively.
 Admin panel of Restaurant Management System has features like 
 * View orders of Tables and Food items,
 * View users list, Admin can delete the inactive users,
