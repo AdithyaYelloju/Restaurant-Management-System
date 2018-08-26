@@ -15,9 +15,13 @@ User panel or public view of Restaurant Management System has features like
 * Log in and Registration form for user to login and sign up by giving details.
 * About us page display about the Restaurant.
 
-# Tools and Technologies
+## Tools and Technologies
 Food Corner is the web based project. Developed using 
 * PHP for backend,
-* MySQL for database,
+* MYSQL for database,
 * CSS, HTML and Java Script for frontend.
 * We used xampp server to run this project in ubuntu operating system.
+
+# Team
+Developer team consists of two members. 1) Adithya Yelloju and 2) Mulka Rohith
+Duration : 2 weeks
